@@ -1,9 +1,5 @@
-<<<<<<< HEAD
+
 B
-=======
-Z
-R
->>>>>>> 7bef6b849f67d0df7f276336953e4c7dac2a6ff6
 B
 C
 D
@@ -16,7 +12,7 @@ J
 K 
 L
 M
-X
+Y
 O
 P
 Q
